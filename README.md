@@ -1,2 +1,2 @@
 # LABS-SOLUTIONS-ITMO-CT
-Solutions from ITMO CT's labs.
+Solutions for ITMO CT's labs.
